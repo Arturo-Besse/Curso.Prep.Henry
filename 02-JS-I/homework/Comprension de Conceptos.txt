@@ -1,0 +1,19 @@
+1.Variables:
+
+Una variable es una forma de guardar elementos dentro de un lenguaje de Programacion. A su vez, las variables pueden ser de diferentes tipos para que se puedan identificar con mayor facilidad y se logre una mejor compresion de la misma. Se le llama Variable por que su valor es variado, es decir, que puede tomar cualquier valor. 
+
+2. Strings
+
+Un strigs es un tipo de variables que define que lo que esta dentro de la variable va a ser del tipo String o una cadena de Caracteres, ya sean letras o numeros. Por ej: "Hola, tengo 28 años". Para poder definir una cadena de caracteres, se lo debe diferenciar con comillas "".
+
+3. Funciones
+
+Una funcion es un elemento que se sirve para reutilizar código, es decir, para no tener que andar repitiendo lineas de codigo numerables veces. Se utilizan los Argumentos, para indicar la informacion que debe reemplazar dentro de la funcion. Estos Argumentos son los que se van a reemplazar cuando se invoque la funcion. El return es la devolucion que nos va dar la funcion, si es que se lo indica. Las funciones pueden o no devolver algo, es decir que pueden o no tener un return.
+
+4. Declaraciones "if"
+
+Una declaracion if, es una condicion la cual se puede cumplir o no. Se cuestiona una condicion en forma de pregunta: Si 33 es mayor a 23, entonces quiero mostrar por consola la oracion "33 es mas grande que 23". Si esta condicion no se cumpliera, no pasaria al paso de mostrar la oracion por consola. Para poder mostrar algo, ya sea que cumpla o no se cumpla la condicion, se debe colocar un "return" acontinuacion de lo que quieras mostrar o devolver.
+
+5. Valores Booleanos
+
+Una valor booleano quiere decir que solo puede tomar 2 valores únicos, en el caso de la programacion hablamos de los 2 valores True o False (Verdadero o Falso).
